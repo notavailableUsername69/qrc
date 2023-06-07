@@ -1,0 +1,23 @@
+#video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+#video {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+}
+
+#result-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#result {
+  font-size: 18px;
+}
